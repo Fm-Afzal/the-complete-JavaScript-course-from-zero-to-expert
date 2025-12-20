@@ -24,3 +24,6 @@ console.log(x);
 // Comparison operators
 console.log(ageAfzal > sagor); // >, <, >=, <=
 console.log(ageAfzal <=18);
+
+const isFullAge = ageAfzal >= 18;
+console.log(now-1991 > now-2018);
